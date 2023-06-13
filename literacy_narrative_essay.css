@@ -1,0 +1,28 @@
+/* Rest of the styles */
+
+body {
+    background-color: #FDE2CC;
+  }
+  
+  header {
+    background-color: #EAC1B8;
+    color: #FFF;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 50px;
+    color: #5C4438;
+  }
+  
+  footer {
+    background-color: #EAC1B8;
+    color: #FFF;
+    padding: 20px;
+  }
+  
